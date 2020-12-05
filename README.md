@@ -1,8 +1,9 @@
 ### Hi, I'm [Guillermo]() <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='30px'> !
 <hr>
 I'm a software developer from Chile 🇨🇱, a passionate about engaging in community projects and following the always-evolving web landscape, particularly with regards in emerging technologies, usability and design. I've always been a self-taught person whose goal is a never-ending improvement. Some technologies I enjoy working with include JavaScript, TypeScripts, ReactJS and NodeJS.
+<br></br>
 
-🔭 Currently working on [RokketLabs](https://www.rokketlabs.com/)
+- 🔭 Currently working on [RokketLabs](https://www.rokketlabs.com/)
 
 ### 📬 How to reach me
 <hr>
@@ -20,7 +21,7 @@ I'm a software developer from Chile 🇨🇱, a passionate about engaging in com
 
 <br/>
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggonzalezh&&layout=compact" alt="ggonzalezh" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggonzalezh&&layout=compact" alt="ggonzalezh" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggonzalezh&count_private=true&show_icons=true&theme=default&disable_animations=true&custom_title=Stats" alt="ggonzalezh" />
 </div>
 
