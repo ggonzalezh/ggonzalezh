@@ -1,12 +1,8 @@
 ### Hi, I'm [Guillermo]() <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='30px'> !
-
 <hr>
-
 I'm a software developer from Chile 🇨🇱, a passionate about engaging in community projects and following the always-evolving web landscape, particularly with regards in emerging technologies, usability and design. I've always been a self-taught person whose goal is a never-ending improvement. Some technologies I enjoy working with include JavaScript, TypeScripts, ReactJS and NodeJS.
 
 🔭 Currently working on [RokketLabs](https://www.rokketlabs.com/)
-
-<br>
 
 ### 📬 How to reach me
 <hr>
@@ -14,6 +10,7 @@ I'm a software developer from Chile 🇨🇱, a passionate about engaging in com
 - Web: [ggonzalezh.dev][1]
 - Twitter: [twitter.com/ggonzalezh_cl][2]
 - Linkedin: [linkedin.com/in/ggonzalezhidalgo][3]
+- Email: [hello@ggonzalezh.dev][4]
 
 ### What I'm focusing on 👨‍💻
 <hr>
@@ -23,8 +20,8 @@ I'm a software developer from Chile 🇨🇱, a passionate about engaging in com
 
 <br/>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggonzalezh&show_icons=true&locale=en&layout=compact" alt="ggonzalezh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggonzalezh&show_icons=true&locale=en" alt="ggonzalezh" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggonzalezh&&layout=compact" alt="ggonzalezh" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggonzalezh&count_private=true&show_icons=true&theme=default&disable_animations=true&custom_title=Stats" alt="ggonzalezh" />
 </div>
 
 <!--
@@ -42,4 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[1]: https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
+[1]: https://ggonzalezh.dev
+[2]: https://twitter.com/ggonzalezh_cl
+[3]: https://www.linkedin.com/in/ggonzalezhidalgo
+[4]: mailto:hello@ggonzalezh.dev
