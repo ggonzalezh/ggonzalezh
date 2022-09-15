@@ -9,9 +9,8 @@ I'm a software developer from Chile, a passionate about engaging in community pr
 <hr>
 
 - Web: [ggonzalezh.dev][1]
-- Twitter: [twitter.com/ggonzalezh_cl][2]
-- Linkedin: [linkedin.com/in/ggonzalezhidalgo][3]
-- Email: [hello@ggonzalezh.dev][4]
+- Linkedin: [linkedin.com/in/ggonzalezhidalgo][2]
+- Email: [hello@ggonzalezh.dev][3]
 
 ### What I'm focusing on 👨‍💻
 <hr>
