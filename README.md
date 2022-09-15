@@ -34,6 +34,5 @@ Here are some ideas to get you started:
 -->
 
 [1]: https://ggonzalezh.dev
-[2]: https://twitter.com/ggonzalezh_cl
-[3]: https://www.linkedin.com/in/ggonzalezhidalgo
-[4]: mailto:hello@ggonzalezh.dev
+[2]: https://www.linkedin.com/in/ggonzalezhidalgo
+[3]: mailto:hello@ggonzalezh.dev
